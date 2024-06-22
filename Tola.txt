@@ -10,4 +10,7 @@ git push -u origin main
 git remote add origin https://github.com/Oyedele50/DEVOP-TRIAL25.git
 git branch -M main
 git push -u origin main
+TOPIC: THE COMPONENTS OF A NEW CHAPTER AND BEGINNING.
+
+KEY TEXTS: Isa. 43:18-21, Rev. 22:13 and Prov. 4:18.
 
