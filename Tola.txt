@@ -10,4 +10,4 @@ git push -u origin main
 git remote add origin https://github.com/Oyedele50/DEVOP-TRIAL25.git
 git branch -M main
 git push -u origin main
-
+Prayer 1: Father, in the name of Jesus, thank you for drawing overflowing and abiding multitude into our last Sunday’s Services and for avenging for all worshippers leading to instant deliverance testimonies by your prophetic word..Psalm 57:9-10 “I will praise thee, O Lord among the people, I will sing unto thee among the nations. For thy mercy is great unto the heavens and thy truth unto the clouds
